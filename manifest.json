@@ -1,12 +1,12 @@
 {
   "background_color": "#ffffff",
-  "description": "My PhotoPuzzle Pro",
+  "description": "My PhotoPuzzle:Pro",
   "dir": "ltr",
   "display": "standalone",
-  "name": "My PhotoPuzzle Pro",
+  "name": "My PhotoPuzzle:Pro",
   "orientation": "any",
   "scope": "/",
-  "short_name": "My PhotoPuzzle Pro",
+  "short_name": "My PhotoPuzzle:Pro",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -50,7 +50,7 @@
   ],
   "shortcuts": [
     {
-      "name": "My PhotoPuzzle Pro",
+      "name": "My PhotoPuzzle:Pro",
       "url": "",
       "description": ""
     }
